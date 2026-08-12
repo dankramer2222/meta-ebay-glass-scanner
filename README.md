@@ -926,19 +926,4 @@ The backend and marketplace pipeline are implemented and runnable locally.
 
 The Meta wearable layer is architected behind a dedicated adapter and is intended for integration with the currently available Meta Wearables Device Access Toolkit.
 
----
-
-# 📄 License
-
-MIT License.
-
----
-
-<p align="center">
-
-### 👓 Look at it. Know what it's worth.
-
-If you find the concept interesting, consider giving the project a ⭐
-
-</p>
 
